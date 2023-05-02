@@ -477,10 +477,10 @@ MonoBehaviour:
   - {fileID: 343682154}
   - {fileID: 61080663}
   - {fileID: 574229610}
-  torque: 700
-  friction: 100
-  brake: 250
-  angle: 15
+  torque: 300
+  friction: 6
+  brake: 500
+  angle: 20
 --- !u!4 &574229610 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 28636839611146925, guid: 133308cdb8794744caaef026bde9e1f0, type: 3}
