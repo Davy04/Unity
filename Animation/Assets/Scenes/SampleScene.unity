@@ -506,7 +506,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   vel: 6
-  rotVel: 50
+  rotVel: 200
   gravity: 20
   moveDir: {x: 0, y: 0, z: 0}
   control: {fileID: 1651095051}
