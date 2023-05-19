@@ -22,11 +22,6 @@ public class CreateFloor : MonoBehaviour
         StartCoroutine(createFloorInGame());
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-
-    }
 
     void createX()
     {

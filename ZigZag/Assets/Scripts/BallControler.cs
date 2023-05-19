@@ -33,11 +33,6 @@ public class BallControler : MonoBehaviour
             gameOver = true;
             rb.useGravity = true;
         }
-
-        if(gameOver)
-        {
-            print("caindo");
-        }
     }
 
     void BallMov()
